@@ -6,24 +6,59 @@ h1{
     color: brown;
     font-size: 50px;
     text-align: center;
+    padding: 10px;
+    border: 5px rosybrown dotted;
+    margin: auto;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    width: 500px;
 }
 img{
     height: auto;
     width: 500px;
+    padding: 0px;
+    margin: 30px;
+    border: 10px ghostwhite solid;
+    box-sizing: border-box;
 
 }
 
 h2{
     color: lightslategray;
     font-size: 42px;
+    padding: 10px;
+    border: 5px brown solid;
+    margin: 30px;
+    box-sizing: border-box;
+    width: 500px;
 }
 
 p{
     color: black;
     font-size: 32px;
+    padding: 10px;
+    border: 5px yellowgreen solid;
+    margin: 30px;
+    box-sizing: border-box;
 }
 
 li{
 color: black;
 font-size: 32px;
+}
+ol{
+    list-style-type: none;
+    padding: 10px;
+    border: 5px orchid solid;
+    margin: 30px;
+    box-sizing: border-box;
+    width: 500px;
+}
+ul{
+    list-style-type: none;
+    padding: 10px;
+    border: 5px orchid solid;
+    margin: 30px;
+    box-sizing: border-box;
+    width: 500px;
 }
